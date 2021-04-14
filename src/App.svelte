@@ -13,7 +13,7 @@
     import { isAuthenticated } from './store.ts';
 
 </script>
-
+{@debug isAuthenticated}
 <main>
     <div class="container">
         <h1>Hello {name}!</h1>
